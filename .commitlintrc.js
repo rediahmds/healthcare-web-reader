@@ -33,7 +33,7 @@ module.exports = {
       { value: 'chore', name: 'chore:    Other changes that don\'t modify src or test files', emoji: ':hammer:' },
       { value: 'revert', name: 'revert:   Reverts a previous commit', emoji: ':rewind:' }
     ],
-    useEmoji: false,
+    useEmoji: true,
     emojiAlign: 'center',
     useAI: false,
     aiNumber: 1,
