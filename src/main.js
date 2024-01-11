@@ -13,7 +13,7 @@ async function check() {
   });
 
   const doc = new GoogleSpreadsheet(
-    '1gnUwWiPe0yeL_0DjVqkeh8w2soe0mHddgqK8Kjq3P_g',
+    '1IWWpruJ2gHDjm9bmTqwDDL2_sKqt90HTYM3BRKsq7hw',
     serviceAccountAuth
   );
 
