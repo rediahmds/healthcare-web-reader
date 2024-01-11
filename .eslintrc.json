@@ -10,5 +10,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+      "import/no-extraneous-dependencies": "off",
+      "comma-dangle": ["error", "only-multiline"]
     }
 }
