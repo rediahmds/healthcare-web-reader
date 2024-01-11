@@ -1,0 +1,29 @@
+{
+  "name": "healthcare-web-reader",
+  "version": "1.0.0",
+  "description": "Web app used to read data from google spreadsheet using a link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-git"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rediahmds/healthcare-web-reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rediahmds/healthcare-web-reader/issues"
+  },
+  "homepage": "https://github.com/rediahmds/healthcare-web-reader#readme",
+  "devDependencies": {
+    "cz-git": "^1.8.0"
+  }
+}
