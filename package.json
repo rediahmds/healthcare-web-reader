@@ -24,6 +24,12 @@
   },
   "homepage": "https://github.com/rediahmds/healthcare-web-reader#readme",
   "devDependencies": {
-    "cz-git": "^1.8.0"
+    "cz-git": "^1.8.0",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  },
+  "dependencies": {
+    "g-sheets-api": "^2.2.0"
   }
 }
